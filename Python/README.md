@@ -6,6 +6,4 @@ Getting a grip of the basic syntax and functionalities is essential while pickin
 
 This notebook introduces you to the basic syntax for the programming language : [Python Basics](Python_Basics.ipynb)
 
-You can also open this notebook in Google Colab and interact with it: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aryanpandey/ML-AI/blob/master/Python/Python_Basics.ipynb)
-
 Have fun Learning!!
