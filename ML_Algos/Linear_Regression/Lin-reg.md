@@ -1,10 +1,10 @@
 # Linear Regression
 
-So yesterday, you would have got to know what Machine Learning is and also a small intro to what Linear regression is.
+Whenever we stumble upon any Machine Learning problem which is Supervised in nature, we categorise it one of two major categories:
+- Regression Problem: In these kind of problems, the variable which we want to predict is continuous in nature. For example, Prices of a house, phone, car etc. 
+- Classification Problem: In these kind of problems, the variable which we want to predict is categorical in nature. For example, detecting if a message is spam or not or finding out which breed a dog belongs to
 
-Refreshing on what we saw yesterday:
-
-**Regression** : Whenever we are trying to predict results within a continuous output, meaning we are trying to map some input variables to some continuous function. For example: Given the characteristics of a mobile phone, we need to predict the approximate price of the mobile phone.
+Linear Regression is one of the first Machine Learning algorithms you'll learn which addresses Regression problems.
 
 **Linear regression** :
 
