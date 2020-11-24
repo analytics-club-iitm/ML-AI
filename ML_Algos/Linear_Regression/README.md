@@ -2,8 +2,8 @@
 
 Hey everyone, so today we will be trying to understand how Linear Regression works and how to implement a simple univariate Linear Regression from scratch.
 
-- Introduction [link](Lin-red.md)
-- Implementing from scratch [link](Linear-Regression%20Notebook.ipynb)
+- Introduction: [Linear Regression](Lin-reg.md)
+- Implementing from scratch: [Implementation](Linear-Regression%20Notebook.ipynb)
 
 # Task 
 
@@ -12,4 +12,4 @@ Implement a simple multivariate Linear Regression using Numpy. In the example we
 The Dataset contains 4 features and the corresponding output. Implement a simple Linear Regresion utilising all these 4 features by associating a corresponding variable for each to map them to the output variables.
 
 # Solution
-Implementing from scratch [link](task-solutions.ipynb)
+Implementing from scratch: [Solutions](task-solutions.ipynb)
