@@ -6,4 +6,10 @@ Getting a grip of the basic syntax and functionalities is essential while pickin
 
 This notebook introduces you to the basic syntax for the programming language : [Python Basics](Python_Basics.ipynb)
 
+## Libraries
+Learning to use python libraries can greatly aid the whole process of learning ML and AI
+Some of the major libraries used will be covered in these modules
+
+This notebook introduces you to the major functionalities in NumPy and MatPlotLib: [Numpy and Matplotlib](numpy&matplotlib.ipynb)
+
 Have fun Learning!!
