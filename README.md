@@ -7,3 +7,8 @@ If you want to interact with this repository's notebooks, you can open it in Goo
 Python is the most widely used language for this field and having an introduction to this is an essential part of anyones learning process.
 
 Link to the module: [Python Module](Python/)
+
+## Machine Learning
+This folder is a collection of all the major Machine Learning Algorithms that are out there.
+
+Link to the module: [Machine Learning Algorithms](ML_Algos/)
