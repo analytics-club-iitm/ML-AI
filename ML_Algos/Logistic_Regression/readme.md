@@ -3,9 +3,9 @@
 Hey guys, today we will be having a look at a simple algorithm for classification (i.e) Logistic regression. We will also be looking at how to implement one from scratch. 
 
 
-Link to PDF: [link](logistic_regression_repo_content.pdf)
+Link to PDF which introduces you to the basic theory and some math behind this algorithm: [link](logistic_regression_repo_content.pdf)
 
-Logistic regression from scratch: [link](Logistic_Regression_From_Scratch.ipynb)
+Logistic regression implemented from scratch: [link](Logistic_Regression_From_Scratch.ipynb)
 
 
 ## Task 
