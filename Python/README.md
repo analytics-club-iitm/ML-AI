@@ -12,4 +12,6 @@ Some of the major libraries used will be covered in these modules
 
 This notebook introduces you to the major functionalities in NumPy and MatPlotLib: [Numpy and Matplotlib](numpy&matplotlib.ipynb)
 
+This folder introduces you to Pandas which is one of the more powerful libraries for data handling. You can check out the folder here: [Pandas Folder](Pandas/)
+
 Have fun Learning!!
