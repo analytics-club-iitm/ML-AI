@@ -12,3 +12,8 @@ Link to the module: [Python Module](Python/)
 This folder is a collection of all the major Machine Learning Algorithms that are out there.
 
 Link to the module: [Machine Learning Algorithms](ML_Algos/)
+
+## Reinforcement Learning
+This folder contains content to give you a slight intuition about the field of reinforcement learning and introduces you to the basic logic behind most RL algorithms
+
+Link to the module: [Reinforcement Learning](Reinforcement-Learning/)
