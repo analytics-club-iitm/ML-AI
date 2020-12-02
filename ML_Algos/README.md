@@ -4,3 +4,4 @@ This folder contains all the major Machine Learning Algorithms you'll need to kn
 
 The following algorithms have been uploaded so far:
 - [Linear Regression](Linear_Regression/)
+- [Logistic Regression](Logistic_Regression/)
