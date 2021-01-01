@@ -17,3 +17,8 @@ Link to the module: [Machine Learning Algorithms](ML_Algos/)
 This folder contains content to give you a slight intuition about the field of reinforcement learning and introduces you to the basic logic behind most RL algorithms
 
 Link to the module: [Reinforcement Learning](Reinforcement-Learning/)
+
+## Challenges
+Constantly challenging yourself and applying what you've learnt is a really important aspect of this field. This folder contains challenges to help you apply everything you learn.
+
+Link to the module: [Challenges](Challenges/)
