@@ -13,6 +13,11 @@ This folder is a collection of all the major Machine Learning Algorithms that ar
 
 Link to the module: [Machine Learning Algorithms](ML_Algos/)
 
+## Deep Learning
+Deep Learning is a rapidly grwoing field and has a huge number of applications in complex problem statements. This folder contains, for now, an introduction to the Pytorch framework and introduces the person to some cool Pytorch functions
+
+Link to the module: [Deep Learning](Deep_Learning/Pytorch_Basics/)
+
 ## Reinforcement Learning
 This folder contains content to give you a slight intuition about the field of reinforcement learning and introduces you to the basic logic behind most RL algorithms
 
